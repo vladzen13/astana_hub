@@ -19,7 +19,7 @@ def locked_requirements(section):
 
 setup(
     name="astana_hub",
-    version="0.0.1",
+    # version="0.0.1",   default set via setup.cfg
 
     description="Get Networking cards from https://astanahub.com/ with ease!",
     long_description=(HERE / "README.md").read_text(encoding="utf-8"),
