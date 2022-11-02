@@ -1,6 +1,9 @@
-# Installation
+astana_hub: Get Networking cards from https://astanahub.com/ with ease!
+==============================================
 
-pip install astana-hub
+[![image](https://img.shields.io/pypi/v/astana-hub.svg)](https://python.org/pypi/astana-hub)
+[![image](https://img.shields.io/pypi/l/astana-hub.svg)](https://python.org/pypi/astana-hub)
+[![image](https://img.shields.io/pypi/pyversions/astana-hub.svg)](https://python.org/pypi/astana-hub)
 
 # Features
 
@@ -10,6 +13,11 @@ pip install astana-hub
     - Optional filter by tags: ('tag_intern', 'tag_it_specialist', 'tag_investor', 'tag_international_agent')
 - Async by aiohttp
 - HTML parsing with bs4+lxml
+- Handy dataclass objects returned
+
+# Installation
+
+```pip install astana-hub```
 
 # Usage
 
