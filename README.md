@@ -1,4 +1,4 @@
-astana_hub: Get Networking cards from https://astanahub.com/ with ease!
+astana_hub: Get Networking cards from [astanahub.com](https://astanahub.com/) with ease!
 ==============================================
 
 [![image](https://img.shields.io/pypi/v/astana-hub.svg)](https://python.org/pypi/astana-hub)
