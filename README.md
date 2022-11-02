@@ -1,16 +1,15 @@
-# Features
-
-- Async by aiohttp
-- HTML parsing with bs4+lxml
-- Get company list from https://astanahub.com/account/company/
-    - Optional filter by tags: ('tag_startup', 'tag_it_company', 'tag_corp_partner', 'tag_techpark', 'tag_ts_member')
-
-- Get user list from https://astanahub.com/account/company/
-    - Optional filter by tags: ('tag_intern', 'tag_it_specialist', 'tag_investor', 'tag_international_agent')
-
 # Installation
 
 pip install astana-hub
+
+# Features
+
+- Get company list from https://astanahub.com/account/company/
+    - Optional filter by tags: ('tag_startup', 'tag_it_company', 'tag_corp_partner', 'tag_techpark', 'tag_ts_member')
+- Get user list from https://astanahub.com/account/company/
+    - Optional filter by tags: ('tag_intern', 'tag_it_specialist', 'tag_investor', 'tag_international_agent')
+- Async by aiohttp
+- HTML parsing with bs4+lxml
 
 # Usage
 
