@@ -2,4 +2,4 @@
 from astana_hub.parser import Parser
 
 __title__ = 'astana_hub'
-__version__ = '0.0.1'
+__version__ = '0.0.2'
