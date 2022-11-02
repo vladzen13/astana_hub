@@ -3,7 +3,7 @@
 
 # Installation
 
-pip install astana_hub
+pip install astana-hub
 
 
 # Usage
